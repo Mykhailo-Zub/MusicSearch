@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MusicSearch/static/css/main.276ca081.chunk.css",
+    "main.js": "/MusicSearch/static/js/main.468bb696.chunk.js",
+    "main.js.map": "/MusicSearch/static/js/main.468bb696.chunk.js.map",
+    "runtime-main.js": "/MusicSearch/static/js/runtime-main.91f58b92.js",
+    "runtime-main.js.map": "/MusicSearch/static/js/runtime-main.91f58b92.js.map",
+    "static/js/2.b55ddd19.chunk.js": "/MusicSearch/static/js/2.b55ddd19.chunk.js",
+    "static/js/2.b55ddd19.chunk.js.map": "/MusicSearch/static/js/2.b55ddd19.chunk.js.map",
+    "static/js/3.5de8ab13.chunk.js": "/MusicSearch/static/js/3.5de8ab13.chunk.js",
+    "static/js/3.5de8ab13.chunk.js.map": "/MusicSearch/static/js/3.5de8ab13.chunk.js.map",
+    "index.html": "/MusicSearch/index.html",
+    "static/css/main.276ca081.chunk.css.map": "/MusicSearch/static/css/main.276ca081.chunk.css.map",
+    "static/js/2.b55ddd19.chunk.js.LICENSE.txt": "/MusicSearch/static/js/2.b55ddd19.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MusicSearch/static/media/background.c251794b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91f58b92.js",
+    "static/js/2.b55ddd19.chunk.js",
+    "static/css/main.276ca081.chunk.css",
+    "static/js/main.468bb696.chunk.js"
+  ]
+}

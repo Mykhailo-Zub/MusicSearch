@@ -1,0 +1,8 @@
+.wrapper {
+    display: flex;
+    color: #ffffff;
+}
+
+.wrapper:hover {
+    transform: scale(1.1);
+}

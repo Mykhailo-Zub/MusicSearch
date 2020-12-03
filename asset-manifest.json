@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MusicSearch/static/css/main.276ca081.chunk.css",
-    "main.js": "/MusicSearch/static/js/main.468bb696.chunk.js",
-    "main.js.map": "/MusicSearch/static/js/main.468bb696.chunk.js.map",
+    "main.js": "/MusicSearch/static/js/main.4727628c.chunk.js",
+    "main.js.map": "/MusicSearch/static/js/main.4727628c.chunk.js.map",
     "runtime-main.js": "/MusicSearch/static/js/runtime-main.91f58b92.js",
     "runtime-main.js.map": "/MusicSearch/static/js/runtime-main.91f58b92.js.map",
     "static/js/2.b55ddd19.chunk.js": "/MusicSearch/static/js/2.b55ddd19.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.91f58b92.js",
     "static/js/2.b55ddd19.chunk.js",
     "static/css/main.276ca081.chunk.css",
-    "static/js/main.468bb696.chunk.js"
+    "static/js/main.4727628c.chunk.js"
   ]
 }
